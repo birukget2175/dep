@@ -555,16 +555,12 @@ section{
     rgba(0,0,0,0.06)0px 1px 2px 0px;
     margin-top: 8rem;
     border-radius: 10px;
-    padding: 0rem 2rem;
+
+    padding: 0rem 0 0 2rem;
     z-index: 1;
 }
 
-.proposal img{
-    width: 40vw;
-    height: auto;
-    margin: -4rem 0 0;
-    z-index: 2;
-}
+
 
 .services .text-box span{
     font-size: 1.2rem;
